@@ -2,7 +2,7 @@
 
 ## Installing
 
-###Window
+### Window
 Install requirements
 ```
 python -m pip install -r requirements.txt
@@ -11,7 +11,7 @@ Run app
 ```
 python -m run.py
 ```
-###Linux
+### Linux
 Install requirements
 ```
 pip install -r requirements.txt
